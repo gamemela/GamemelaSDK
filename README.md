@@ -13,3 +13,5 @@ introduce GAMEMELA
 1. Download the code from [GAMEMELA download site][1]
 2. Copy library to your projectRoot/Assets/gamemela
 
+
+[1]: https://github.com/gamemela/sdk/archive/latest.zip "latest version of GAMEMELA-SDK"
