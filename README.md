@@ -15,10 +15,9 @@ All features are available on Android.
 Installation of GamemelaSDK
 -----------------------
 
-1. [Download GamemelaSDK Plugin for Unity.](https://github.com/gamemela/GamemelaSDK/raw/master/unity/gamemela-unity-sdk-0.0.1b.unitypackage) / 
-[[archive](docs/ARCHIVE.md)]
+1. [Download GamemelaSDK Plugin for Unity.][[Download page](docs/ARCHIVE.md)]
 2. Open your project for Unity.
-3. Execute downloaded [gamemela-unity-sdk.x.y.z.unitypackage].
+3. Import downloaded package [gamemela-unity-sdk.x.y.z.unitypackage].
 
 Usage for social features.
 -----------------------
