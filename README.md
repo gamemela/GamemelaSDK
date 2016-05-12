@@ -1,4 +1,4 @@
-![](docs/images/Gamememla Signature Size Logo.png "")
+![Gamemela Logo](docs/images/Gamememla Signature Size Logo.png)
 # Gamemela SDK
 _Copyright (c) 2016 Funizen Inc. All rights reserved._
 
@@ -18,6 +18,8 @@ Installation of GamemelaSDK
 1. [Download GamemelaSDK Plugin for Unity.][[Download page](docs/ARCHIVE.md)]
 2. Open your project for Unity.
 3. Import downloaded package [gamemela-unity-sdk.x.y.z.unitypackage].
+4. Gamemela -> Edit Settings
+  * ![MainMenu->Gamemela->Edit Settings](docs/images/GamemelaScreenShot-GamemelaSettings.jpg)
 
 Usage for social features.
 -----------------------
