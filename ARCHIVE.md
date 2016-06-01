@@ -1,6 +1,8 @@
 # Archive
 
-* [2016-05-30 gamemela-unity-sdk-1.0.1(latest)](https://github.com/gamemela/GamemelaSDK/raw/master/unity/gamemela-unity-sdk-1.0.1.unitypackage)
+* [2016-06-01 gamemela-unity-sdk-1.0.2(latest)](https://github.com/gamemela/GamemelaSDK/raw/master/unity/gamemela-unity-sdk-1.0.2.unitypackage)
+  * added Facebook AudienceNetwork
+* [2016-05-30 gamemela-unity-sdk-1.0.1](https://github.com/gamemela/GamemelaSDK/raw/master/unity/gamemela-unity-sdk-1.0.1.unitypackage)
   * added GPGS 0.9.33
   * added AdMob 3.0.4
 * [2016-05-13 gamemela-unity-sdk-1.0.0](https://github.com/gamemela/GamemelaSDK/raw/master/unity/gamemela-unity-sdk-1.0.0.unitypackage)
