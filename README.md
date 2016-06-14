@@ -50,53 +50,6 @@ Usage for social features.
 ### Sign out
 		GM.SignOut();
 
-# Gamemela Ads
-## Overview
-
-The GAMEMELA Ads is integration Ads of UnityAds, InMobi, GoogleAds.
-* Banner
-* Interstition
-* RewardedVideo
-
-All features are available on Android.
-
-Usage for Ads.
------------------------
-### Namespace
-	using GamemelaSdk.Unity;
-
-### Settings
-		// Unity
-		Settings.instance.unity.androidGameId = "xxxxxxx";
-		Settings.instance.unity.androidInterstitialPlacementId = "xxxxxxxx";
-		Settings.instance.unity.androidRewardedPlacementId = "xxxxxxxx";
-
-		// InMobi
-		Settings.instance.inMobi.accountId = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
-		Settings.instance.inMobi.bannerPlacementId = 000000000000;
-		Settings.instance.inMobi.interstitialPlacementId = 00000000000;
-
-		// Google
-		Settings.instance.google.adUnitIdBanner = "ca-app-pub-xxxxxxxxxxxxx/xxxxxxxxxxxx";
-		Settings.instance.google.adUnitIdInterstitial = "ca-app-pub-xxxxxxxxxxxxx/xxxxxxxxxxxx";
-		Settings.instance.google.adUnitIdReward = "ca-app-pub-xxxxxxxxxxxxx/xxxxxxxxxxxx";
-### Initialize
-		Ads ads = Xxx.instance;
-		
-		// Xxx have to replace with <AdsUnity, AdsGoogle, AdsInMobi>
-
-### ShowBanner / Destroy Banner
-		ads.ShowBanner();
-
-		ads.DestroyBanner();
-
-### ShowInterstitial
-		ads.ShowInterstitial();
-
-### ShowRewardedVideo
-		ads.ShowRewardedVideo();
-
-
 # References
 -----------------------
 
@@ -106,13 +59,7 @@ _[Google Play Games plugin for Unity](https://github.com/playgameservices/play-g
 
 _[Google Analytics Plugin for Unity](https://github.com/googleanalytics/google-analytics-plugin-for-unity)_
 
-_[Google Mobile Ads Unity Plugin](https://github.com/googleads/googleads-mobile-unity)_
-
-_[InMobi Ads Plugin for Unity Guide](https://support.inmobi.com/monetize/integration/partner-platforms/unity-partner-platform-android-integration-guide/) / [Download](https://dl.inmobi.com/SDK/Plugins/InMobi_Unity_Android_Plugin.zip)_
-
 _[unity-webview](https://github.com/gree/unity-webview)_
-
-_[Unity Ads SDK](https://github.com/Applifier/unity-ads-sdk)_
 
 _[Unity HTTP](https://github.com/andyburke/UnityHTTP)_
 
