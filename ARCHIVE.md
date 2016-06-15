@@ -1,6 +1,8 @@
 # Archive
 
-* [2016-06-02 gamemela-unity-sdk-1.0.3](https://github.com/gamemela/GamemelaSDK/raw/master/unity/gamemela-unity-sdk-1.0.3.unitypackage)
+* [2016-06-15 gamemela-unity-sdk-1.0.4](https://github.com/gamemela/GamemelaSDK/raw/master/unity/gamemela-unity-sdk-1.0.4.unitypackage)
+  * Show popup for notices and events
+* [2016-06-14 gamemela-unity-sdk-1.0.3](https://github.com/gamemela/GamemelaSDK/raw/master/unity/gamemela-unity-sdk-1.0.3.unitypackage)
   * Google Login
   * Removed Ads Plugins
 * [2016-06-02 gamemela-unity-sdk-1.0.2c1](https://github.com/gamemela/GamemelaSDK/raw/master/unity/gamemela-unity-sdk-1.0.2c1.unitypackage)

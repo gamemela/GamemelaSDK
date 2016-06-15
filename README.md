@@ -44,6 +44,11 @@ Usage for social features.
 			Debug.Log("OnButtonSignInGamemela: " + success + " / " + message);
 		});
 
+### Show Notices and Events after check them exists.
+		GM.ShowNoticePopup((success, message)=> {
+			Debug.Log("Notices: " + success + " / " + message);
+		});
+
 ### Customer Service
 		GM.LoadPageCustomerService();
 
