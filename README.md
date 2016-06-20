@@ -27,7 +27,7 @@ Usage for social features.
 	using GamemelaSdk.Unity;
 
 ### Initialize
-		GM.Init(facebookAppId:"");
+		GM.Init();
 
 ### Check sign in
 		if (GM.IsSignedIn())
