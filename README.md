@@ -21,6 +21,20 @@ Installation of GamemelaSDK
 4. Gamemela -> Edit Settings
   * ![MainMenu->Gamemela->Edit Settings](docs/images/GamemelaScreenShot-GamemelaSettings.jpg)
 
+GamemelaSDK Built with
+-----------------------
+1. Unity 5.3.5f1 
+2. Android SDK Manager Settings (*)
+	* Tools
+		* Install Android SDK Build-tools 23.0.3
+		* Install Android SDK Tools 25.1.7
+		* Install Android SDK Platform-tools 24
+		* Uninstall all the rest in Tools category.
+	* None of [Android N] and [preview] things...
+	* ![](docs/images/android-sdk-manager.jpg)
+	
+
+
 Usage for social features.
 -----------------------
 ### Namespace
