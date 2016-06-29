@@ -1,5 +1,8 @@
 # Archive
 
+* [2016-06-29 gamemela-unity-sdk-1.0.5a](https://github.com/gamemela/GamemelaSDK/raw/master/unity/gamemela-unity-sdk-1.0.5a.unitypackage)
+  * fixed Google Login
+  * play-services-9.2.0
 * [2016-06-20 gamemela-unity-sdk-1.0.5](https://github.com/gamemela/GamemelaSDK/raw/master/unity/gamemela-unity-sdk-1.0.5.unitypackage)
   * Login Gamemela is allowed on offline.
 * [2016-06-15 gamemela-unity-sdk-1.0.4](https://github.com/gamemela/GamemelaSDK/raw/master/unity/gamemela-unity-sdk-1.0.4.unitypackage)
