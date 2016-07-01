@@ -1,7 +1,10 @@
 # Archive
 
+* [2016-07-04 gamemela-unity-sdk-1.0.5b](https://github.com/gamemela/GamemelaSDK/raw/master/unity/gamemela-unity-sdk-1.0.5b.unitypackage)
+  * Fixed login with Google (Enable GooglePlus API Access on Unity menu).
+  * Fixed login screen shrinking issue.
 * [2016-06-29 gamemela-unity-sdk-1.0.5a](https://github.com/gamemela/GamemelaSDK/raw/master/unity/gamemela-unity-sdk-1.0.5a.unitypackage)
-  * fixed Google Login
+  * Fixed Google Login.
   * play-services-9.2.0
 * [2016-06-20 gamemela-unity-sdk-1.0.5](https://github.com/gamemela/GamemelaSDK/raw/master/unity/gamemela-unity-sdk-1.0.5.unitypackage)
   * Login Gamemela is allowed on offline.

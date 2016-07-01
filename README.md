@@ -20,6 +20,8 @@ Installation of GamemelaSDK
 3. Import downloaded package [gamemela-unity-sdk.x.y.z.unitypackage].
 4. Gamemela -> Edit Settings
   * ![MainMenu->Gamemela->Edit Settings](docs/images/GamemelaScreenShot-GamemelaSettings.jpg)
+5. Google Play Games
+  * ![MainMenu->Google Play Games->Setup->Android setup...](docs/images/GamemelaScreenShot-AndroidSetup.jpg)
 
 GamemelaSDK Built with
 -----------------------
