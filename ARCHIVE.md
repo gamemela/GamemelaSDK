@@ -1,5 +1,7 @@
 # Archive
 
+* [2016-07-05 gamemela-unity-sdk-1.0.5c](https://github.com/gamemela/GamemelaSDK/raw/master/unity/gamemela-unity-sdk-1.0.5c.unitypackage)
+  * Notice Popup
 * [2016-07-04 gamemela-unity-sdk-1.0.5b](https://github.com/gamemela/GamemelaSDK/raw/master/unity/gamemela-unity-sdk-1.0.5b.unitypackage)
   * Fixed login with Google (Enable GooglePlus API Access on Unity menu).
   * Fixed login screen shrinking issue.
