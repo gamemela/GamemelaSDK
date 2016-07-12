@@ -1,5 +1,7 @@
 # Archive
 
+* [2016-07-12 gamemela-unity-sdk-1.0.5e](https://github.com/gamemela/GamemelaSDK/raw/master/unity/gamemela-unity-sdk-1.0.5e.unitypackage)
+  * Show notice and event pages in a sequentially.
 * [2016-07-05 gamemela-unity-sdk-1.0.5c](https://github.com/gamemela/GamemelaSDK/raw/master/unity/gamemela-unity-sdk-1.0.5c.unitypackage)
   * Notice Popup
 * [2016-07-04 gamemela-unity-sdk-1.0.5b](https://github.com/gamemela/GamemelaSDK/raw/master/unity/gamemela-unity-sdk-1.0.5b.unitypackage)
