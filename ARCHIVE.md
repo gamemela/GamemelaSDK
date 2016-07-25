@@ -1,5 +1,8 @@
 # Archive
 
+* [2016-07-27 1.0.6a](https://github.com/gamemela/GamemelaSDK/raw/1.0.6a/unity/gamemela-unity-sdk.unitypackage)
+  * Simplified Sign in progress.
+  * Close Button for WebView.
 * [2016-07-14 1.0.5f](https://github.com/gamemela/GamemelaSDK/raw/1.0.5f/unity/gamemela-unity-sdk.unitypackage)
   * Fixed SSL warning on Login.
 * [2016-07-12 1.0.5e](https://github.com/gamemela/GamemelaSDK/raw/1.0.5e/unity/gamemela-unity-sdk.unitypackage)

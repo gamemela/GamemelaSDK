@@ -28,11 +28,10 @@ GamemelaSDK Built with
 1. Unity 5.3.5f1 
 2. Android SDK Manager Settings (*)
 	* Tools
-		* Install Android SDK Build-tools 23.0.3
+		* Install Android SDK Build-tools 24.0.1
 		* Install Android SDK Tools 25.1.7
-		* Install Android SDK Platform-tools 24
-		* Uninstall all the rest in Tools category.
-	* None of [Android N] and [preview] things...
+		* Install Android SDK Platform-tools 24.0.1
+	* None of [preview] things...
 	* ![](docs/images/android-sdk-manager.jpg)
 	
 
@@ -42,31 +41,18 @@ Usage for social features.
 ### Namespace
 	using GamemelaSdk.Unity;
 
-### Initialize
-		GM.Init();
-
-### Check sign in
-		if (GM.IsSignedIn())
-		{
-			Debug.Log("Gamemela signed in.");
-		}
-		else
-		{
-			Debug.Log("Gamemela signed out.");
-		}
-
 ### Sign in
-		GM.LoadPageSignIn((success, message)=> {
-			Debug.Log("OnButtonSignInGamemela: " + success + " / " + message);
+		GM.SignIn((bool success, String message)=> {
+			if (success) {
+				Debug.Log("Sign in success");
+			}
+			else {
+				Debug.Log("Sign in failed:" + message);
+			}
 		});
 
-### Show Notices and Events after check them exists.
-		GM.ShowNoticePopup((success, message)=> {
-			Debug.Log("Notices: " + success + " / " + message);
-		});
-
-### Customer Service
-		GM.LoadPageCustomerService();
+### Help
+		GM.LoadPageHelp();
 
 ### Sign out
 		GM.SignOut();
