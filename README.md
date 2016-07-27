@@ -32,7 +32,7 @@ GamemelaSDK Built with
 		* Install Android SDK Tools 25.1.7
 		* Install Android SDK Platform-tools 24.0.1
 	* None of [preview] things...
-	* ![](docs/images/android-sdk-manager.jpg)
+	
 	
 
 
