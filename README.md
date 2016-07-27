@@ -51,7 +51,7 @@ Usage for social features.
 			}
 		});
 
-### Help
+### Help(Customer Services)
 		GM.LoadPageHelp();
 
 ### Sign out
